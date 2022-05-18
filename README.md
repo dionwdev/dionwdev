@@ -12,7 +12,7 @@
   </a>
 </p>
 
-Software Engineer with a focus on Full Stack Web Applications, with a background in Art, Music, and Technical/Customer Support.
+Software Engineer with a focus on Full Stack Web Applications, with a background in Art, Music, and Technical/Customer Support. I love building with creatives and business owners.
 
 Visit [my website](https://dionwilson.dev)!
 
@@ -56,7 +56,6 @@ Visit [my website](https://dionwilson.dev)!
       </p>
         <p><strong>HTML5, CSS3, & Javascript</strong>::Built for mobile, Cache Vodka is a vodka lover's cocktail recipe cheat-sheet. Quickly look up over 90 alphabetically listed drinks. Each includes a list of ingrediants with measurements, a small photo for reference, simple directions, and even the type of glass to serve your creations in.</p>
     </td>
-  
     
   </tr>
   
@@ -81,8 +80,8 @@ Visit [my website](https://dionwilson.dev)!
     <td width="50%" valign="top">
       <h3 align="center">Syra Sprarkle Photography</h3>
         <br />
-        <a target="_blank" href="https://nasa-archive.netlify.app/">
-          <img src="https://i.imgur.com/QDHYknD.gif" width="100%" alt="Syra"/>
+       <a target="_blank" href="https://syrasparkle.netlify.app/">
+          <img src="https://i.imgur.com/QDHYknD.gif/" width="100%" alt="Syra Sparkle Photograph"/>
         </a>
         <br />
         <p align="center">
@@ -99,9 +98,7 @@ Visit [my website](https://dionwilson.dev)!
   </tr>
 </table>
 
-
 <h1 align="center">Technologies</h1>
-
 
 <p align="center">
     <img src="https://img.shields.io/static/v1?label=|&message=HTML5&color=23555f&style=plastic&logo=html5"/>
@@ -114,13 +111,9 @@ Visit [my website](https://dionwilson.dev)!
     <img src="https://img.shields.io/static/v1?label=|&message=GIT&color=cbb148&style=plastic&logo=git"/>
 </p>
 
-
-
 ---
 
-
 <h1 align="center">Connect</h1>
-
 
 
 <p align="center">
