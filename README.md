@@ -1,22 +1,114 @@
-<h1 align="center">Hi 👋, I'm Dion Wilson</h1>
-<h3 align="center">A Full Stack Developer</h3>
+<tr>
+    <td width="50%" valign="top">
+      <h3 align="center">Beauty Unlimited By Kye LLC</h3>
+        <br />
+        <a target="_blank" href="https://kyedemo.netlify.app">
+            <img src="https://i.imgur.com/D7vW43N.gif" width="100%" alt="Beauty Unlimited"/>
+        </a>
+        <br />
+        <p align="center">
+          
+  <a href="GIT REPO GOES HERE" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+  </a>  
+  <a href="https://kyedemo.netlify.app" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+  </a>
+      </p>
+        <p><strong>HTML5, CSS3, & Javascript</strong>::This fully responsive website serves as a hub for listing services, scheduling appointments, receiving feedback, and directing customers to social media. Beautiful on both mobile and desktop, giving the client a competitive edge against similar businesses in the area.</p>
+    </td>
+    <td width="50%" valign="top">
+      
+      <h3 align="center">"CACHE VODKA"</h3>
+        <br />
+      <a target="_blank" href="https://cachevodka.netlify.app" >
+            <img src="https://i.imgur.com/sc2kHHR.gif" width="100%"  alt="Cache Vodka"/>
+        </a>
+        <br />
+        <p align="center">
+          
+  <a href="REPO HERE" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+  </a>
+  <a href="https://cachevodka.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+  </a>
+      </p>
+        <p><strong>Javascript, HTML5, & CSS3</strong>::Built for mobile, Cache Vodka is a vodka lover's cocktail recipe cheat-sheet. Quickly look up over 90 alphabetically listed drinks. Each includes a list of ingrediants with measurements, a small photo for reference, simple directions, and even the type of glass to serve your creations in.</p>
+    </td>
+  </tr>
+  
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">A NASA APOD ARCHIVE</h3>
+      <br />
+        <a target="_blank" href="https://nasa-archive.netlify.app/">
+          <img src="images/gif4.gif" width="100%" alt="NASA"/>
+        </a>
+      <br />
+        <p align="center">
+  <a href="REPO" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+  </a>
+  <a href="https://nasa-archive.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+  </a>
+      </p>
+        <p><strong>HTML5, CSS3, & Javascript</strong>::Since 1995, NASA has published an Astronomy Picture Of The Day. This page, automotically showing you last year's entry on load, gives the ability to browse all previous entries from NASA by simply picking a date from the calander menu and choosing select. All images are HD sourced using official NASA API integration.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">Syra Sprarkle Photography</h3>
+        <br />
+        <a target="_blank" href="https://syrasparkle.netlify.app/">
+          <img src="https://i.imgur.com/QDHYknD.gif" width="100%" alt="Syra Sparkle Photography"/>
+        </a>
+        <br />
+        <p align="center">
+          
+  <a href="REPO" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+  </a>
+  <a href="https://syrasparkle.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+  </a>
+      </p>
+        <p><strong>HTML5, CSS3, & Javascript</strong>::A landing page for Syra Sparkle, New York based international photographer with a passion for nightlife and underground culture. Easily navigate to their book shop, portfolio, social media, and donation pages.</p>
+    </td>
+  </tr>
+</table>
 
-- 🔭 I’m currently working on **a secret music platform**
 
-- 🌱 I’m currently learning **Kalimba**
+<h1 align="center">Technologies</h1>
 
-- 👨‍💻 Some of my projects are available at [www.dionwilson.dev](www.dionwilson.dev)
 
-- 📫 How to reach me **dionwilson.dev@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/dionwilsondev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dionwilsondev" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/dion-wilson-dev/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dion-wilson-dev/" height="30" width="40" /></a>
+<p align="center">
+    <img src="https://img.shields.io/static/v1?label=|&message=HTML5&color=23555f&style=plastic&logo=html5"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=CSS3&color=285f65&style=plastic&logo=css3"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=JAVASCRIPT&color=3c7f5d&style=plastic&logo=javascript"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=REACT.JS&color=4a935c&style=plastic&logo=react"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=WORDPRESS&color=cdd148&style=plastic&logo=wordpress"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=MONGO-DB&color=cdd148&style=plastic&logo=mongodb"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=EXPRESS&color=bbb111&style=plastic&logo=express"/> 
+    <img src="https://img.shields.io/static/v1?label=|&message=GIT&color=cbb148&style=plastic&logo=git"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
 
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/dionwdev"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="dionwdev" /></a></p><br><br>
+
+---
+
+
+<h1 align="center">Connect</h1>
+
+
+
+<p align="center">
+  <a href="https://dionwilson.dev" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=23555f&style=plastic&logo=react&logo-color=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/dion-wilson-dev/" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=LINKED-IN&color=cdf998&style=plastic&logo=linkedin&logo-color=white"/>
+  </a>
+  <a href="https://twitter.com/dionwilsondev" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=TWITTER&color=23555f&style=plastic&logo=twitter&logo-color=white"/>
+  </a>
+</p>
