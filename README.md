@@ -63,7 +63,7 @@ Visit [my website](https://dionwilson.dev)!
     <td width="50%" valign="top">
       <h3 align="center">A NASA APOD Archive</h3>
       <br />
-        <a target="_blank" href="https://nasa-archive.netlify.app/">
+        <a target="_blank" href="https://nasa-archive.netlify.app">
           <img src="https://i.imgur.com/3Ksq4qN.gif" width="100%" alt="NASA"/>
         </a>
       <br />
@@ -80,8 +80,8 @@ Visit [my website](https://dionwilson.dev)!
     <td width="50%" valign="top">
       <h3 align="center">Syra Sprarkle Photography</h3>
         <br />
-       <a target="_blank" href="https://syrasparkle.netlify.app/">
-          <img src="https://i.imgur.com/QDHYknD.gif/" width="100%" alt="Syra Sparkle Photograph"/>
+       <a target="_blank" href="https://syrasparkle.netlify.app">
+          <img src="https://i.imgur.com/QDHYknD.gif" width="100%" alt="Syra Sparkle Photograph"/>
         </a>
         <br />
         <p align="center">
