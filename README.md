@@ -61,7 +61,7 @@ Visit [my website](https://dionwilson.dev)!
   
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">A NASA APOD ARCHIVE</h3>
+      <h3 align="center">A NASA APOD Archive</h3>
       <br />
         <a target="_blank" href="https://nasa-archive.netlify.app/">
           <img src="https://i.imgur.com/3Ksq4qN.gif" width="100%" alt="NASA"/>
