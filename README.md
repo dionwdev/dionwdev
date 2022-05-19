@@ -81,7 +81,7 @@ Visit [my website](https://dionwilson.dev)!
       <h3 align="center">Syra Sprarkle Photography</h3>
         <br />
        <a target="_blank" href="https://syrasparkle.netlify.app">
-          <img src="https://i.imgur.com/QDHYknD.gif" width="100%" alt="Syra Sparkle Photograph"/>
+          <img src="https://i.imgur.com/QDHYknD.gif" width="100%" alt="Syra Sparkle Photograph">
         </a>
         <br />
         <p align="center">
