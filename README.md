@@ -13,7 +13,7 @@
 </p>
 
 I'm a Software Engineer with a focus on Full Stack Web Applications, with a background in Art, Music, and Technical/Customer Support. I love building with creatives and business owners.
-Check out [my main bsite](https://dionwilson.dev)!
+Check out [my main site](https://dionwilson.dev)!
 
 
 <h1 align="center">Projects</h1>
