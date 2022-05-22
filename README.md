@@ -1,3 +1,4 @@
+<h1 align="center">Hi 👋, I'm Dion</h1>
 <img src="https://i.imgur.com/v2dP4XR.jpg" width="100%">
 
 <p align="center">
@@ -12,8 +13,17 @@
   </a>
 </p>
 
+<h3 align="center">A Full Stack Developer</h3>
 I'm a Software Engineer with a focus on Full Stack Web Applications, with a background in Art, Music, and Technical/Customer Support. I love building with creatives and business owners.
-Check out [my main site](https://dionwilson.dev)!
+
+
+- 🔭 I’m currently working on **a secret music platform**
+
+- 🌱 I’m currently learning **Kalimba**
+
+- 👨‍💻 Some of my projects are available at [www.dionwilson.dev](www.dionwilson.dev)
+
+- 📫 How to reach me **dionwilson.dev@gmail.com**
 
 
 <h1 align="center">Projects</h1>
@@ -103,10 +113,10 @@ Check out [my main site](https://dionwilson.dev)!
     <img src="https://img.shields.io/static/v1?label=|&message=HTML5&color=23555f&style=plastic&logo=html5"/>
     <img src="https://img.shields.io/static/v1?label=|&message=CSS3&color=285f65&style=plastic&logo=css3"/>
     <img src="https://img.shields.io/static/v1?label=|&message=JAVASCRIPT&color=3c7f5d&style=plastic&logo=javascript"/>
-    <img src="https://img.shields.io/static/v1?label=|&message=REACT.JS&color=4a935c&style=plastic&logo=react"/>
-    <img src="https://img.shields.io/static/v1?label=|&message=WORDPRESS&color=cdd148&style=plastic&logo=wordpress"/>
     <img src="https://img.shields.io/static/v1?label=|&message=MONGO-DB&color=cdd148&style=plastic&logo=mongodb"/>
-    <img src="https://img.shields.io/static/v1?label=|&message=EXPRESS&color=bbb111&style=plastic&logo=express"/> 
+    <img src="https://img.shields.io/static/v1?label=|&message=EXPRESS&color=bbb111&style=plastic&logo=express"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=REACT.JS&color=4a935c&style=plastic&logo=react"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=NODE.JS&color=bbb111&style=plastic&logo=nodedotjs"/>
     <img src="https://img.shields.io/static/v1?label=|&message=GIT&color=cbb148&style=plastic&logo=git"/>
 </p>
 
@@ -126,3 +136,8 @@ Check out [my main site](https://dionwilson.dev)!
     <img src="https://img.shields.io/static/v1?label=|&message=TWITTER&color=23555f&style=plastic&logo=twitter&logo-color=white"/>
   </a>
 </p>
+
+
+<h3 align="left">Support:</h3>
+<p><a href="https://www.buymeacoffee.com/dionwdev"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="dionwdev" /></a></p><br><br>
+
