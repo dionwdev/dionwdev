@@ -24,8 +24,8 @@ Visit [my website](https://dionwilson.dev)!
     <td width="50%" valign="top">
       <h3 align="center">Beauty Unlimited By Kye LLC</h3>
         <br />
-        <a target="_blank" href="https://kyedemo.netlify.app">
-            <img src="https://i.imgur.com/D7vW43N.gif" width="100%" alt="Beauty Unlimited"/>
+        <a align="center" target="_blank" href="https://kyedemo.netlify.app">
+            <img src="images/kye.gif" width="100%" alt="Beauty Unlimited"/>
         </a>
         <br />
         <p align="center">          
@@ -43,7 +43,7 @@ Visit [my website](https://dionwilson.dev)!
       <h3 align="center">Cache Vodka</h3>
         <br />
         <a target="_blank" href="https://cachevodka.netlify.app">
-            <img src="https://i.imgur.com/sc2kHHR.gif" width="100%" alt="Cache Vodka"/>
+            <img src="images/cache.gif" width="100%" alt="Cache Vodka"/>
         </a>
         <br />
         <p align="center">          
@@ -64,7 +64,7 @@ Visit [my website](https://dionwilson.dev)!
       <h3 align="center">A NASA APOD Archive</h3>
       <br />
         <a target="_blank" href="https://nasa-archive.netlify.app">
-          <img src="https://i.imgur.com/3Ksq4qN.gif" width="100%" alt="NASA"/>
+          <img src="images/nasa.gif" width="100%" alt="NASA"/>
         </a>
       <br />
         <p align="center">
@@ -81,7 +81,7 @@ Visit [my website](https://dionwilson.dev)!
       <h3 align="center">Syra Sprarkle Photography</h3>
         <br />
        <a target="_blank" href="https://syrasparkle.netlify.app">
-          <img src="https://i.imgur.com/QDHYknD.gif" width="100%" alt="Syra Sparkle Photograph">
+          <img src="/images/syra.gif" width="100%" alt="Syra Sparkle Photograph">
         </a>
         <br />
         <p align="center">
