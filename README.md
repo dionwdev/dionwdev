@@ -14,7 +14,7 @@
 </p>
 
 <h3 align="center">A Full Stack Developer</h3>
-I'm a Software Engineer with a focus on Full Stack Web Applications, with a background in Art, Music, and Technical/Customer Support. I love building with creatives and business owners.
+I'm a Software Engineer with a focus on Full Stack Web Applications, with a background in Art, Music, and Technical Support. I love building with creatives and business owners.
 
 
 - 🔭 I’m currently working on **a secret music platform**
