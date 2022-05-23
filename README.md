@@ -122,10 +122,10 @@ I'm a Software Engineer with a focus on Full Stack Web Applications, with a back
 
 ---
 
-<h1 align="center">Connect</h1>
+<h1 align="right">Connect</h1>
 
 
-<p align="center">
+<p align="right">
   <a href="https://dionwilson.dev" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=23555f&style=plastic&logo=react&logo-color=white"/>
   </a>
@@ -138,6 +138,6 @@ I'm a Software Engineer with a focus on Full Stack Web Applications, with a back
 </p>
 
 
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/dionwdev"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="dionwdev" /></a></p><br><br>
+<h3 align="right">Support:</h3>
+<p><a href="https://www.buymeacoffee.com/dionwdev"> <img align="right" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="dionwdev" /></a></p><br><br>
 
