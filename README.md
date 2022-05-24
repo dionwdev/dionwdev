@@ -21,7 +21,7 @@ I'm a Software Engineer with a focus on Full Stack Web Applications, with a back
 
 - 🌱 I’m currently learning **Kalimba**
 
-- 👨‍💻 Some of my projects are available at [www.dionwilson.dev](www.dionwilson.dev)
+- 👨‍💻 Some of my projects are available at [www.dionwilson.dev](https://www.dionwilson.dev)
 
 - 📫 How to reach me **dionwilson.dev@gmail.com**
 
