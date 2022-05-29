@@ -70,14 +70,14 @@ I'm a Software Engineer with a focus on Full Stack Web Applications, with a back
   
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">A NASA APOD Archive</h3>
+      <h3 align="center">NASA APOD Archive</h3>
       <br />
         <a target="_blank" href="https://nasa-archive.netlify.app">
           <img src="images/nasa.gif" width="100%" alt="NASA"/>
         </a>
       <br />
         <p align="center">
-  <a href="REPO" target="_blank">
+  <a href="https://github.com/dionwdev/apodNasa" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a>
   <a href="https://nasa-archive.netlify.app/" target="_blank">
