@@ -38,7 +38,7 @@ I'm a Software Engineer with a focus on Full Stack Web Applications, with a back
         </a>
         <br />
         <p align="center">          
-  <a href="GIT REPO GOES HERE" target="_blank">
+  <a href="https://github.com/dionwdev/BeautyUnlimited" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a>  
   <a href="https://kyedemo.netlify.app" target="_blank">
