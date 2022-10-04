@@ -138,4 +138,3 @@ I'm a Software Engineer with a focus on Full Stack Web Applications
 
 <h3 align="right">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/dionwdev"> <img align="right" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="dionwdev" /></a></p><br><br>
-
