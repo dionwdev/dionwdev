@@ -30,6 +30,24 @@ I'm a Software Engineer with a focus on Full Stack Web Applications
 
 <tr>
     <td width="50%" valign="top">
+      <h3 align="center">GoTune.Pro</h3>
+        <br />
+        <a align="center" target="_blank" href="https://gotune.pro">
+            <img src="images/gotune.gif" width="100%" alt="GoTune.Pro"/>
+        </a>
+        <br />
+        <p align="center">          
+  <a href="https://github.com/dionwdev/GoTunePro" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+  </a>  
+  <a href="https://gotune.pro" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+  </a>
+      </p>
+        <p><strong>HTML5, CSS3, Javascript, Node, Express, MongoDB</strong>:: A platform where users can upload audio files to generate a media player emulating lead global products like Apple Music, Spotify, and Tidal. Customizable pages include an info section with the ability to link monetized and promotional locations of choice.</p>
+    </td>
+  
+  <td width="50%" valign="top">
       <h3 align="center">Beauty Unlimited By Kye LLC</h3>
         <br />
         <a align="center" target="_blank" href="https://kyedemo.netlify.app">
@@ -46,8 +64,11 @@ I'm a Software Engineer with a focus on Full Stack Web Applications
       </p>
         <p><strong>HTML5, CSS3, & Javascript</strong>::This fully responsive website serves as a hub for listing services, scheduling appointments, receiving feedback, and directing customers to social media. Beautiful on both mobile and desktop, giving the client a competitive edge against similar businesses in the area.</p>
     </td>
+    
+  </tr>
   
-  <td width="50%" valign="top">
+  <tr>
+<td width="50%" valign="top">
       <h3 align="center">Cache Vodka</h3>
         <br />
         <a target="_blank" href="https://cachevodka.netlify.app">
@@ -64,10 +85,6 @@ I'm a Software Engineer with a focus on Full Stack Web Applications
       </p>
         <p><strong>HTML5, CSS3, & Javascript</strong>::Built for mobile, Cache Vodka is a vodka lover's cocktail recipe cheat-sheet. Quickly look up over 90 alphabetically listed drinks. Each includes a list of ingrediants with measurements, a small photo for reference, simple directions, and even the type of glass to serve your creations in.</p>
     </td>
-    
-  </tr>
-  
-  <tr>
     <td width="50%" valign="top">
       <h3 align="center">NASA APOD Archive</h3>
       <br />
@@ -84,24 +101,6 @@ I'm a Software Engineer with a focus on Full Stack Web Applications
   </a>
       </p>
         <p><strong>HTML5, CSS3, & Javascript</strong>::Since 1995, NASA has published an Astronomy Picture Of The Day. This page, automotically showing you last year's entry on load, gives the ability to browse all previous entries from NASA by simply picking a date from the calander menu and choosing select. All images are HD sourced using official NASA API integration.</p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">Syra Sprarkle Photography</h3>
-        <br />
-       <a target="_blank" href="https://syrasparkle.netlify.app">
-          <img src="/images/syra.gif" width="100%" alt="Syra Sparkle Photograph">
-        </a>
-        <br />
-        <p align="center">
-          
-  <a href="REPO" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
-  </a>
-  <a href="https://syrasparkle.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
-  </a>
-      </p>
-        <p><strong>HTML5, CSS3, & Javascript</strong>::A landing page for Syra Sparkle, New York based international photographer with a passion for nightlife and underground culture. Easily navigate to their book shop, portfolio, social media, and donation pages.</p>
     </td>
   </tr>
 </table>
