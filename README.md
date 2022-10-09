@@ -23,6 +23,11 @@ I'm a Software Engineer with a focus on Full Stack Web Applications
 - 👨‍💻 Some of my projects are available at [www.dionwilson.dev](https://www.dionwilson.dev)
 
 - 📫 How to reach me **dionwilson.dev@gmail.com**
+<p align="left">
+  <a href="https://www.linkedin.com/in/dion-wilson-dev/" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=LINKED-IN&color=cdf998&style=plastic&logo=linkedin&logo-color=white"/>
+  </a>
+</p>
 
 
 <h1 align="center">Projects</h1>
