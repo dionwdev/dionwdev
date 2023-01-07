@@ -35,6 +35,24 @@ I'm a Software Engineer with a focus on Full Stack Web Applications
 
 <tr>
     <td width="50%" valign="top">
+      <h3 align="center">Tonie - Client Formula Database</h3>
+        <br />
+        <a align="center" target="_blank" href="https://gotune.pro">
+            <img src="images/tonie.gif" width="100%" alt="GoTune.Pro"/>
+        </a>
+        <br />
+        <p align="center">          
+  <a href="https://github.com/dionwdev/Tonie-client-formula-db" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+  </a>  
+  <a href="#" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+  </a>
+      </p>
+        <p><strong>HTML5, CSS3, Javascript, Node, Express, MongoDB</strong>:: Tonie is a free tool to store and organize client formulas, contacts, and notes. Browse and organize by type (color, other, etc), or custom label. </p>
+    </td>
+  
+  <td width="50%" valign="top">
       <h3 align="center">GoTune.Pro</h3>
         <br />
         <a align="center" target="_blank" href="https://gotune.pro">
@@ -51,8 +69,11 @@ I'm a Software Engineer with a focus on Full Stack Web Applications
       </p>
         <p><strong>HTML5, CSS3, Javascript, Node, Express, MongoDB</strong>:: A platform where users can upload audio files to generate a media player emulating lead global products like Apple Music, Spotify, and Tidal. Customizable pages include an info section with the ability to link monetized and promotional locations of choice.</p>
     </td>
+    
+  </tr>
   
-  <td width="50%" valign="top">
+  <tr>
+ <td width="50%" valign="top">
       <h3 align="center">Beauty Unlimited By Kye LLC</h3>
         <br />
         <a align="center" target="_blank" href="https://kyedemo.netlify.app">
@@ -68,27 +89,6 @@ I'm a Software Engineer with a focus on Full Stack Web Applications
   </a>
       </p>
         <p><strong>HTML5, CSS3, & Javascript</strong>::This fully responsive website serves as a hub for listing services, scheduling appointments, receiving feedback, and directing customers to social media. Beautiful on both mobile and desktop, giving the client a competitive edge against similar businesses in the area.</p>
-    </td>
-    
-  </tr>
-  
-  <tr>
-<td width="50%" valign="top">
-      <h3 align="center">Cache Vodka</h3>
-        <br />
-        <a target="_blank" href="https://cachevodka.netlify.app">
-            <img src="images/cache.gif" width="100%" alt="Cache Vodka"/>
-        </a>
-        <br />
-        <p align="center">          
-  <a href="https://github.com/dionwdev/cachevodka" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
-  </a>  
-  <a href="https://cachevodka.netlify.app" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
-  </a>
-      </p>
-        <p><strong>HTML5, CSS3, & Javascript</strong>::Built for mobile, Cache Vodka is a vodka lover's cocktail recipe cheat-sheet. Quickly look up over 90 alphabetically listed drinks. Each includes a list of ingrediants with measurements, a small photo for reference, simple directions, and even the type of glass to serve your creations in.</p>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">NASA APOD Archive</h3>
