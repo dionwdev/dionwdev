@@ -49,7 +49,7 @@ I'm a Software Engineer with a focus on Full Stack Web Applications
     <td width="50%" valign="top">
       <h3 align="center">Tonie - Client Formula Database</h3>
         <br />
-        <a align="center" target="_blank" href="https://gotune.pro">
+        <a align="center" target="_blank" href="#">
             <img src="images/tonie.gif" width="100%" alt="GoTune.Pro"/>
         </a>
         <br />
